@@ -1,0 +1,17 @@
+{
+  "name": "nextjs-workers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "6.1.1",
+    "react": "16.4.1",
+    "react-dom": "16.4.1",
+    "worker-loader": "2.0.0"
+  }
+}
