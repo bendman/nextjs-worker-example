@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import Worker from 'worker-loader!../worker';
+import Worker from '../example.worker';
 
 export default class Example extends Component {
   componentDidMount() {
